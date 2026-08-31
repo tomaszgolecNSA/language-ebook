@@ -1,4 +1,4 @@
-# THE IMMERSION GAP
+## THE IMMERSION GAP
 
 ## How to Get to the Enjoyable Part of Learning a Distant Language
 
@@ -6,7 +6,117 @@
 
 ---
 
-## A Note Before We Begin
+# Introduction: I Thought I Was Bad at Languages
+
+For most of my education, I was convinced that I simply did not have a talent for languages.
+
+I am an engineer by education and a programmer by profession. I have always felt much more at home with technical subjects, systems, logic, and problems that can be broken down into understandable mechanisms.
+
+Languages did not feel like that.
+
+I was also diagnosed with dyslexia, and throughout school language learning was one of the areas where I regularly struggled.
+
+I studied German for roughly twelve years.
+
+Twelve years is a long time.
+
+And after all those years, I still could not really speak German.
+
+I could complete exercises. I could memorize vocabulary for a test. I could recognize grammatical structures. I could fill gaps in sentences.
+
+But if someone had simply sat down in front of me and started a normal conversation, those twelve years of education would not have translated into comfortable communication.
+
+For a long time, I interpreted this in the most obvious way:
+
+**I am simply bad at languages.**
+
+Some people have a talent for them.
+
+I apparently did not.
+
+Later, English became practically necessary for me.
+
+Eventually I needed it not just for travel or understanding simple conversations, but for my work as a software developer.
+
+This time, however, I gradually stopped trying to reproduce the way I had learned languages at school.
+
+I began finding my own path.
+
+I built enough of a foundation to start consuming real content. I increasingly surrounded myself with English that was connected to things I actually cared about.
+
+Later, instead of spending most of my speaking practice on artificial classroom dialogues, I found someone I genuinely enjoyed talking to.
+
+He was not a language teacher in the traditional sense. He had lived in the United States for decades and had returned to Poland after retirement.
+
+We would meet for coffee or beer and talk about politics, economics, travel, and whatever else interested us.
+
+I wanted to have those conversations.
+
+English was simply the tool I needed in order to have them.
+
+That distinction changed something fundamental.
+
+For the first time, language learning did not feel primarily like repeatedly demonstrating everything I still could not do.
+
+The language was giving me access to something I wanted.
+
+Over time, my English became good enough to use professionally.
+
+And that forced me to reconsider the conclusion I had carried with me from school.
+
+Maybe I was not inherently bad at languages.
+
+Maybe I was bad at learning languages in the particular way I had been taught to learn them.
+
+Years later, when I approached Spanish, I followed a similar philosophy.
+
+I built a small base and then tried to get into real content as quickly as possible.
+
+It worked remarkably well for me.
+
+Spanish began giving feedback almost immediately. I could recognize words, understand fragments of sentences, read subtitles, watch television, and gradually move deeper into the language.
+
+Then I tried Hindi.
+
+And the system broke.
+
+Not completely.
+
+But enough to force me to think much more carefully about why my previous approach had worked in the first place.
+
+Hindi did not give me the same early access to real content.
+
+The vocabulary was much less familiar.
+
+The writing system was new.
+
+Even after learning basic grammar and hundreds of words, a normal film could still sound almost completely opaque.
+
+And subtitles did not solve the problem if I could not read Devanagari quickly enough to follow them.
+
+That was when I realized that the central problem was not simply that Hindi was "harder."
+
+There was an additional stage I had barely noticed while learning more accessible languages.
+
+Before immersion could begin working for me, I first had to build the infrastructure that made immersion possible.
+
+That realization eventually became the idea behind this book.
+
+I call it **the immersion gap**.
+
+This book is not written from the perspective of a polyglot who effortlessly learns a new language every six months.
+
+It is written from almost the opposite perspective.
+
+I am someone who spent years believing that languages were one of the things my brain simply did not do particularly well.
+
+What follows is the approach I gradually developed through trial and error: first while finding a way to learn English outside the school model, later while experimenting with Spanish, and finally while discovering why a much more distant language such as Hindi required me to rethink the process again.
+
+If you have spent years studying a language, completing exercises, memorizing vocabulary, and still wondering why you cannot comfortably use it, this book is written partly for you.
+
+---
+
+# A Note Before We Begin
 
 This is not a book written by a linguist claiming to have discovered the scientifically optimal way to learn a language.
 
@@ -18,7 +128,9 @@ Then I tried to apply essentially the same strategy to Hindi.
 
 It stopped working.
 
-Not because immersion was useless. Quite the opposite. The problem was that I could not get to immersion.
+Not because immersion was useless. Quite the opposite.
+
+The problem was that I could not get to immersion.
 
 There was a gap between knowing some Hindi and being able to use Hindi to do anything enjoyable.
 
