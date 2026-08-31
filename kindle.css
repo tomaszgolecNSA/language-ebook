@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+html {
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+body {
+  font-family: serif;
+  line-height: 1.55;
+  margin: 5%;
+  orphans: 2;
+  widows: 2;
+}
+
+body#cover {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#cover-image,
+#cover-image svg {
+  display: block;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+p {
+  margin: 0 0 0.72em 0;
+  text-indent: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  hyphens: none;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h1 {
+  font-size: 1.65em;
+  line-height: 1.2;
+  margin: 0 0 1.35em 0;
+  padding: 0 0 0.55em 0;
+  border-bottom: 0.08em solid #b58a3b;
+}
+
+h2 {
+  font-size: 1.3em;
+  line-height: 1.25;
+  margin: 1.8em 0 0.75em 0;
+}
+
+h3 {
+  font-size: 1.08em;
+  line-height: 1.3;
+  margin: 1.45em 0 0.6em 0;
+}
+
+h1 + p,
+h2 + p,
+h3 + p {
+  margin-top: 0;
+}
+
+blockquote {
+  border-left: 0.22em solid #b58a3b;
+  margin: 1.15em 0.6em;
+  padding: 0.1em 0 0.1em 0.9em;
+}
+
+blockquote p {
+  font-style: italic;
+  margin-bottom: 0.45em;
+}
+
+ul,
+ol {
+  margin: 0.8em 0 1em 1.35em;
+  padding: 0;
+}
+
+li {
+  margin: 0.22em 0;
+}
+
+hr {
+  border: 0;
+  border-top: 0.08em solid #b58a3b;
+  margin: 2em auto;
+  width: 28%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+.titlepage {
+  text-align: center;
+}
+
+.titlepage h1.main {
+  border: 0;
+  font-size: 2em;
+  margin-top: 18%;
+  padding: 0;
+}
+
+.titlepage h1.subtitle {
+  border: 0;
+  font-family: sans-serif;
+  font-size: 1.12em;
+  line-height: 1.4;
+  margin: 1.4em 8%;
+  padding: 0;
+}
+
+.titlepage .author {
+  font-family: sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.08em;
+  margin-top: 3em;
+  text-transform: uppercase;
+}
+
+.titlepage .publisher,
+.titlepage .date,
+.titlepage .rights {
+  font-size: 0.82em;
+  margin-top: 0.7em;
+}
+
+nav#toc ol,
+nav[epub\:type~="toc"] ol {
+  list-style: none;
+  margin-left: 0;
+}
+
+nav#toc li,
+nav[epub\:type~="toc"] li {
+  border-bottom: 0.05em solid #d8d8d8;
+  padding: 0.4em 0;
+}
+
+section[epub\:type~="copyright-page"] {
+  font-size: 0.88em;
+}
+
