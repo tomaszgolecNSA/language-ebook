@@ -6,6 +6,34 @@
 
 ---
 
+# Contents
+
+- [Introduction: I Thought I Was Bad at Languages](#introduction-i-thought-i-was-bad-at-languages)
+- [A Note Before We Begin](#a-note-before-we-begin)
+- [Chapter 1: The Easy Part of Learning Spanish](#chapter-1-the-easy-part-of-learning-spanish)
+- [Chapter 2: Stop Studying the Language](#chapter-2-stop-studying-the-language)
+- [Chapter 3: Then I Tried the Same Thing With Hindi](#chapter-3-then-i-tried-the-same-thing-with-hindi)
+- [Chapter 4: The Immersion Gap](#chapter-4-the-immersion-gap)
+- [Chapter 5: Knowing the Script Is Not Reading the Script](#chapter-5-knowing-the-script-is-not-reading-the-script)
+- [Chapter 6: The App Trap](#chapter-6-the-app-trap)
+- [Chapter 7: Build the Bridge With Small Content](#chapter-7-build-the-bridge-with-small-content)
+- [Chapter 8: Captions Are a Tool, Not a Failure](#chapter-8-captions-are-a-tool-not-a-failure)
+- [Chapter 9: Rewatching Is Not Wasted Time](#chapter-9-rewatching-is-not-wasted-time)
+- [Chapter 10: Not Every Native Video Is Good Learning Material](#chapter-10-not-every-native-video-is-good-learning-material)
+- [Chapter 11: Interest Is Not a Luxury](#chapter-11-interest-is-not-a-luxury)
+- [Chapter 12: My Controversial Part: I Do Not Prioritize Speaking First](#chapter-12-my-controversial-part-i-do-not-prioritize-speaking-first)
+- [Chapter 13: Passive Knowledge Is Not Useless Knowledge](#chapter-13-passive-knowledge-is-not-useless-knowledge)
+- [Chapter 14: The Goal Is to Build a Self-Sustaining Loop](#chapter-14-the-goal-is-to-build-a-self-sustaining-loop)
+- [Chapter 15: A Practical Version of the Method](#chapter-15-a-practical-version-of-the-method)
+- [Chapter 16: Why I Optimize for Hundreds of Hours](#chapter-16-why-i-optimize-for-hundreds-of-hours)
+- [Chapter 17: Where Research Fits Into This Model](#chapter-17-where-research-fits-into-this-model)
+- [Chapter 18: Languages This Book Is and Is Not About](#chapter-18-languages-this-book-is-and-is-not-about)
+- [Chapter 19: The Real Milestone](#chapter-19-the-real-milestone)
+- [Conclusion: Get to the Fun Part](#conclusion-get-to-the-fun-part)
+- [Research Notes and References](#research-notes-and-references)
+
+---
+
 # Introduction: I Thought I Was Bad at Languages
 
 For most of my education, I was convinced that I simply did not have a talent for languages.
@@ -160,7 +188,7 @@ My goal is not to turn personal experience into a scientific law. It is to combi
 
 ---
 
-# 1. The Easy Part of Learning Spanish
+# Chapter 1: The Easy Part of Learning Spanish
 
 Spanish and Polish are not closely related languages. Polish is Slavic; Spanish is Romance.
 
@@ -260,7 +288,7 @@ The amount of information available to infer meaning becomes enormous.
 
 ---
 
-# 2. Stop Studying the Language
+# Chapter 2: Stop Studying the Language
 
 This is the point I actually want to reach.
 
@@ -340,7 +368,7 @@ This is the engine I want to activate as early as possible.
 
 ---
 
-# 3. Then I Tried the Same Thing With Hindi
+# Chapter 3: Then I Tried the Same Thing With Hindi
 
 At first, the plan seemed obvious.
 
@@ -384,7 +412,7 @@ The writing system.
 
 ---
 
-# 4. The Immersion Gap
+# Chapter 4: The Immersion Gap
 
 Suppose I watch Spanish dialogue with Spanish subtitles.
 
@@ -458,7 +486,7 @@ It supports a more modest point:
 
 ---
 
-# 5. Knowing the Script Is Not Reading the Script
+# Chapter 5: Knowing the Script Is Not Reading the Script
 
 This distinction became one of the most important lessons from my Hindi experiment.
 
@@ -530,7 +558,7 @@ It is a hypothesis worth testing, not a scientific law.
 
 ---
 
-# 6. The App Trap
+# Chapter 6: The App Trap
 
 Language apps are useful.
 
@@ -603,7 +631,7 @@ I was building a bridge to audiovisual immersion.
 
 ---
 
-# 7. Build the Bridge With Small Content
+# Chapter 7: Build the Bridge With Small Content
 
 The jump from an app directly into a two-hour film is enormous.
 
@@ -653,7 +681,7 @@ This is where the immersion gap starts closing.
 
 ---
 
-# 8. Captions Are a Tool, Not a Failure
+# Chapter 8: Captions Are a Tool, Not a Failure
 
 Some language learners treat subtitles as cheating.
 
@@ -729,7 +757,7 @@ The objective is to remain near the boundary where the material is difficult but
 
 ---
 
-# 9. Rewatching Is Not Wasted Time
+# Chapter 9: Rewatching Is Not Wasted Time
 
 There is a strange bias in media consumption.
 
@@ -781,7 +809,7 @@ And familiarity frees cognitive capacity.
 
 ---
 
-# 10. Not Every Native Video Is Good Learning Material
+# Chapter 10: Not Every Native Video Is Good Learning Material
 
 One of the most time-consuming parts of my method is finding the right content.
 
@@ -851,7 +879,7 @@ That intersection is extremely valuable.
 
 ---
 
-# 11. Interest Is Not a Luxury
+# Chapter 11: Interest Is Not a Luxury
 
 Suppose you have two Hindi tutors.
 
@@ -917,7 +945,7 @@ For a language requiring hundreds or thousands of hours, sustainability becomes 
 
 ---
 
-# 12. My Controversial Part: I Do Not Prioritize Speaking First
+# Chapter 12: My Controversial Part: I Do Not Prioritize Speaking First
 
 There is a popular language-learning slogan:
 
@@ -971,7 +999,7 @@ But I want speaking to be connected to something real.
 
 ---
 
-# 13. Passive Knowledge Is Not Useless Knowledge
+# Chapter 13: Passive Knowledge Is Not Useless Knowledge
 
 There is a frustrating phase in language learning where you understand a word immediately when someone else says it but cannot produce it yourself.
 
@@ -1023,7 +1051,7 @@ That is a much stronger long-term motivator than maintaining an application stre
 
 ---
 
-# 14. The Goal Is to Build a Self-Sustaining Loop
+# Chapter 14: The Goal Is to Build a Self-Sustaining Loop
 
 At this point the entire method can be reduced to one diagram.
 
@@ -1119,7 +1147,7 @@ The purpose of the early stage is to shorten that distance.
 
 ---
 
-# 15. A Practical Version of the Method
+# Chapter 15: A Practical Version of the Method
 
 I would not turn this approach into a rigid twelve-week program.
 
@@ -1266,7 +1294,7 @@ The language now has a job.
 
 ---
 
-# 16. Why I Optimize for Hundreds of Hours
+# Chapter 16: Why I Optimize for Hundreds of Hours
 
 Language learning discussions often focus on methods.
 
@@ -1310,7 +1338,7 @@ That changes the entire problem.
 
 ---
 
-# 17. Where Research Fits Into This Model
+# Chapter 17: Where Research Fits Into This Model
 
 It would be easy to take several compatible research findings and claim that science has proven this entire method.
 
@@ -1388,7 +1416,7 @@ The goal is to find the intersection of **useful input** and **voluntary repetit
 
 ---
 
-# 18. Languages This Book Is and Is Not About
+# Chapter 18: Languages This Book Is and Is Not About
 
 My experience comes primarily from approaching Hindi after languages that were closer to what I already knew.
 
@@ -1432,7 +1460,7 @@ Then let meaningful content multiply your exposure.
 
 ---
 
-# 19. The Real Milestone
+# Chapter 19: The Real Milestone
 
 Language apps have convenient milestones.
 
